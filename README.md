@@ -63,7 +63,7 @@ The script rotates each alphabetical character by a user-provided shift value. C
    Good Bye
    ```
 
-> Tip: Non-alphabet characters are left as-is. Shifts larger than 26 (or negative) still work—everything wraps around the alphabet.
+> Tip: Non-alphabet characters are left as-is. Shifts larger than 26 (or negative) still work everything wraps around the alphabet.
 
 ## Resources
 
